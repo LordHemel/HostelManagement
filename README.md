@@ -60,3 +60,6 @@ You may also hardcode or adjust credentials in `DBConnection.java` for local tes
 ## Notes
 - Ensure Tomcat 9.x (javax servlet API). For Tomcat 10 (jakarta), migrations are needed.
 - If `git` is not available on your PATH, install Git to initialize the repository.
+
+
+Link - https://luis-untumid-otis.ngrok-free.dev/HostelManagement
